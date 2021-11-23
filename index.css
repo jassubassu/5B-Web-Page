@@ -1,0 +1,88 @@
+.logo {
+	float: left;
+	padding: 8px;
+	border-right: 2px solid rgb(175, 67, 117) !important;
+}
+
+.border {
+	border: 2px solid rgb(175, 67, 117) !important;
+}
+
+.center {
+	text-align: center;
+}
+
+.nav    {
+    background-color: rgb(248, 233, 242);
+}
+
+header{
+	margin-bottom: 10px;
+    color: rgb(202, 106, 159);
+    background-color: rgb(247, 195, 227);
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+.col1   {
+    margin: auto;
+    width: 500px;
+    color: rgb(202, 106, 159);
+    background-color: rgb(247, 195, 227);
+}
+
+.col    {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgb(248, 236, 242);
+    color: rgb(158, 56, 107);
+    font-size: 20px;
+}
+
+img     {
+    padding-bottom: 22px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.nav-link.active {
+	color: rgb(85, 16, 53);
+}
+
+a:hover     {
+    color: rgb(236, 154, 185);
+}
+
+.nav-link      {
+    color: rgb(197, 23, 110);
+}
+
+section {
+	clear: both;
+}
+
+footer      {
+    font-size: 30px;
+    background-color: rgb(247, 195, 227);
+    color: rgb(202, 106, 159);
+}
+
+.loppu      {
+    padding-top: 10px;
+}
+
+body    {
+    background-color: rgb(252, 246, 249);
+}
