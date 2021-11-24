@@ -88,3 +88,20 @@ body    {
     margin-left: 1%;
     margin-right: 1%;
 }
+
+.form   {
+    background-color: rgb(248, 236, 242);
+    color: rgb(158, 56, 107);
+    font-size: 22px;
+    padding: 20px;
+    width: 610px;
+    margin: auto;
+}
+
+.otsikko    {
+    font-size: 30px;
+    margin: auto;
+    width: 500px;
+    color: rgb(202, 106, 159);
+    background-color: rgb(247, 195, 227);
+}
