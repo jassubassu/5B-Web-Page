@@ -94,7 +94,7 @@ body    {
     color: rgb(158, 56, 107);
     font-size: 22px;
     padding: 20px;
-    width: 610px;
+    width: 50%;
     margin: auto;
 }
 
@@ -105,3 +105,4 @@ body    {
     color: rgb(202, 106, 159);
     background-color: rgb(247, 195, 227);
 }
+
