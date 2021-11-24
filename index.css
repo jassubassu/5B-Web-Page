@@ -106,3 +106,7 @@ body    {
     background-color: rgb(247, 195, 227);
 }
 
+.width      {
+    height: 600px;
+    margin: auto;
+}
