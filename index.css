@@ -110,3 +110,8 @@ body    {
     height: 600px;
     margin: auto;
 }
+
+.lahjoitus:hover    {
+    color: rgb(161, 63, 117);
+    background-color: rgb(218, 145, 190);
+}
