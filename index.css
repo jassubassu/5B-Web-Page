@@ -114,6 +114,7 @@ body    {
 .lahjoitus:hover    {
     color: rgb(161, 63, 117);
     background-color: rgb(218, 145, 190);
+    transition-duration: 1s;
 }
 
 .otsikko2   {
